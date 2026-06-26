@@ -1,0 +1,6 @@
+{
+  "name": "BucketScore",
+  "description": "A live basketball scoring application for schools and local tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
